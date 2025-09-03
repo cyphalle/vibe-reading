@@ -1,0 +1,1263 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="eng">
+  <head>
+    <meta content="d4f69393-4ba2-4dbb-8695-1319056659f3" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (4.99.5)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>INSPIRED: How to Create Tech Products Customers Love</text>
+  </docTitle>
+  <navMap>
+    <navPoint class="chapter" id="num_1" playOrder="208">
+      <navLabel>
+        <text>Cover</text>
+      </navLabel>
+      <content src="index_split_097.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_2" playOrder="207">
+      <navLabel>
+        <text>Title Page</text>
+      </navLabel>
+      <content src="index_split_094.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_3" playOrder="1">
+      <navLabel>
+        <text>Preface to the Second Edition</text>
+      </navLabel>
+      <content src="index_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_4" playOrder="2">
+      <navLabel>
+        <text>PART I: Lessons from Top Tech Companies</text>
+      </navLabel>
+      <content src="index_split_001.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_5" playOrder="3">
+      <navLabel>
+        <text>CHAPTER 1: Behind Every Great Product</text>
+      </navLabel>
+      <content src="index_split_002.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_6" playOrder="4">
+      <navLabel>
+        <text>CHAPTER 2: Technology‐Powered Products and Services</text>
+      </navLabel>
+      <content src="index_split_003.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_7" playOrder="5">
+      <navLabel>
+        <text>CHAPTER 3: Startups: Getting to Product/Marketing Fit</text>
+      </navLabel>
+      <content src="index_split_004.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_8" playOrder="6">
+      <navLabel>
+        <text>CHAPTER 4: Growth‐Stage Companies: Scaling to Success</text>
+      </navLabel>
+      <content src="index_split_005.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_9" playOrder="7">
+      <navLabel>
+        <text>CHAPTER 5: Enterprise Companies: Consistent Product Innovation</text>
+      </navLabel>
+      <content src="index_split_006.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_10" playOrder="8">
+      <navLabel>
+        <text>CHAPTER 6: The Root Causes of Failed Product Efforts</text>
+      </navLabel>
+      <content src="index_split_007.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_11" playOrder="10">
+      <navLabel>
+        <text>CHAPTER 7: Beyond Lean and Agile</text>
+      </navLabel>
+      <content src="index_split_008.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_12" playOrder="11">
+      <navLabel>
+        <text>CHAPTER 8: Key Concepts</text>
+      </navLabel>
+      <content src="index_split_009.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_13" playOrder="12">
+      <navLabel>
+        <text>Holistic Product</text>
+      </navLabel>
+      <content src="index_split_009.html#filepos47456"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_14" playOrder="13">
+      <navLabel>
+        <text>Continuous Discovery and Delivery</text>
+      </navLabel>
+      <content src="index_split_009.html#filepos49685"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_15" playOrder="15">
+      <navLabel>
+        <text>Product Discovery</text>
+      </navLabel>
+      <content src="index_split_009.html#filepos52086"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_16" playOrder="16">
+      <navLabel>
+        <text>Prototypes</text>
+      </navLabel>
+      <content src="index_split_009.html#filepos53323"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_17" playOrder="17">
+      <navLabel>
+        <text>Product Delivery</text>
+      </navLabel>
+      <content src="index_split_009.html#filepos54714"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_18" playOrder="18">
+      <navLabel>
+        <text>Products and Product/Market Fit</text>
+      </navLabel>
+      <content src="index_split_009.html#filepos55616"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_19" playOrder="19">
+      <navLabel>
+        <text>Product Vision</text>
+      </navLabel>
+      <content src="index_split_009.html#filepos56759"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_20" playOrder="20">
+      <navLabel>
+        <text>PART II: The Right People</text>
+      </navLabel>
+      <content src="index_split_010.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_21" playOrder="21">
+      <navLabel>
+        <text>Product Teams</text>
+      </navLabel>
+      <content src="index_split_011.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_22" playOrder="22">
+      <navLabel>
+        <text>Overview</text>
+      </navLabel>
+      <content src="index_split_011.html#filepos62828"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_23" playOrder="23">
+      <navLabel>
+        <text>CHAPTER 9: Principles of Strong Product Teams</text>
+      </navLabel>
+      <content src="index_split_012.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_24" playOrder="24">
+      <navLabel>
+        <text>Team of Missionaries</text>
+      </navLabel>
+      <content src="index_split_012.html#filepos64945"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_25" playOrder="25">
+      <navLabel>
+        <text>Team Composition</text>
+      </navLabel>
+      <content src="index_split_012.html#filepos65886"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_26" playOrder="26">
+      <navLabel>
+        <text>Team Empowerment and Accountability</text>
+      </navLabel>
+      <content src="index_split_012.html#filepos67018"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_27" playOrder="27">
+      <navLabel>
+        <text>Team Size</text>
+      </navLabel>
+      <content src="index_split_012.html#filepos67599"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_28" playOrder="28">
+      <navLabel>
+        <text>Team Reporting Structure</text>
+      </navLabel>
+      <content src="index_split_012.html#filepos68621"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_29" playOrder="29">
+      <navLabel>
+        <text>Team Collaboration</text>
+      </navLabel>
+      <content src="index_split_012.html#filepos69730"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_30" playOrder="30">
+      <navLabel>
+        <text>Team Location</text>
+      </navLabel>
+      <content src="index_split_012.html#filepos70436"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_31" playOrder="31">
+      <navLabel>
+        <text>Team Scope</text>
+      </navLabel>
+      <content src="index_split_012.html#filepos72926"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_32" playOrder="32">
+      <navLabel>
+        <text>Team Duration</text>
+      </navLabel>
+      <content src="index_split_012.html#filepos76217"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_33" playOrder="33">
+      <navLabel>
+        <text>Team Autonomy</text>
+      </navLabel>
+      <content src="index_split_012.html#filepos77726"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_34" playOrder="34">
+      <navLabel>
+        <text>Why It Works</text>
+      </navLabel>
+      <content src="index_split_012.html#filepos78728"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_35" playOrder="35">
+      <navLabel>
+        <text>CHAPTER 10: The Product Manager</text>
+      </navLabel>
+      <content src="index_split_013.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_36" playOrder="36">
+      <navLabel>
+        <text>Key Responsibilities</text>
+      </navLabel>
+      <content src="index_split_013.html#filepos86536"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_37" playOrder="37">
+      <navLabel>
+        <text>Deep Knowledge of the Customer</text>
+      </navLabel>
+      <content src="index_split_013.html#filepos89115"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_38" playOrder="38">
+      <navLabel>
+        <text>Deep Knowledge of the Data</text>
+      </navLabel>
+      <content src="index_split_013.html#filepos90292"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_39" playOrder="39">
+      <navLabel>
+        <text>Deep Knowledge of Your Business</text>
+      </navLabel>
+      <content src="index_split_013.html#filepos91351"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_40" playOrder="40">
+      <navLabel>
+        <text>Deep Knowledge of Your Market and Industry</text>
+      </navLabel>
+      <content src="index_split_013.html#filepos92845"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_41" playOrder="41">
+      <navLabel>
+        <text>Smart, Creative, and Persistent</text>
+      </navLabel>
+      <content src="index_split_013.html#filepos96926"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_42" playOrder="42">
+      <navLabel>
+        <text>Product Manager Profiles</text>
+      </navLabel>
+      <content src="index_split_013.html#filepos101042"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_43" playOrder="43">
+      <navLabel>
+        <text>CHAPTER 11: The Product Designer</text>
+      </navLabel>
+      <content src="index_split_014.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_44" playOrder="44">
+      <navLabel>
+        <text>Product Discovery</text>
+      </navLabel>
+      <content src="index_split_014.html#filepos112202"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_45" playOrder="45">
+      <navLabel>
+        <text>Holistic User Experience Design</text>
+      </navLabel>
+      <content src="index_split_014.html#filepos113691"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_46" playOrder="46">
+      <navLabel>
+        <text>Prototyping</text>
+      </navLabel>
+      <content src="index_split_014.html#filepos116234"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_47" playOrder="47">
+      <navLabel>
+        <text>User Testing</text>
+      </navLabel>
+      <content src="index_split_014.html#filepos116934"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_48" playOrder="48">
+      <navLabel>
+        <text>Interaction and Visual Design</text>
+      </navLabel>
+      <content src="index_split_014.html#filepos117893"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_49" playOrder="49">
+      <navLabel>
+        <text>The Absence of Product Design</text>
+      </navLabel>
+      <content src="index_split_014.html#filepos119466"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_50" playOrder="50">
+      <navLabel>
+        <text>CHAPTER 12: The Engineers</text>
+      </navLabel>
+      <content src="index_split_015.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_51" playOrder="51">
+      <navLabel>
+        <text>CHAPTER 13: Product Marketing Managers</text>
+      </navLabel>
+      <content src="index_split_016.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_52" playOrder="52">
+      <navLabel>
+        <text>CHAPTER 14: The Supporting Roles</text>
+      </navLabel>
+      <content src="index_split_017.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_53" playOrder="53">
+      <navLabel>
+        <text>User Researchers</text>
+      </navLabel>
+      <content src="index_split_017.html#filepos140426"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_54" playOrder="54">
+      <navLabel>
+        <text>Data Analysts</text>
+      </navLabel>
+      <content src="index_split_017.html#filepos142361"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_55" playOrder="55">
+      <navLabel>
+        <text>Test Automation Engineers</text>
+      </navLabel>
+      <content src="index_split_017.html#filepos144090"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_56" playOrder="56">
+      <navLabel>
+        <text>CHAPTER 15: Profile: Jane Manning of Google</text>
+      </navLabel>
+      <content src="index_split_018.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_57" playOrder="57">
+      <navLabel>
+        <text>People @ Scale</text>
+      </navLabel>
+      <content src="index_split_019.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_58" playOrder="58">
+      <navLabel>
+        <text>Overview</text>
+      </navLabel>
+      <content src="index_split_019.html#filepos151216"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_59" playOrder="59">
+      <navLabel>
+        <text>CHAPTER 16: The Role of Leadership</text>
+      </navLabel>
+      <content src="index_split_020.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_60" playOrder="60">
+      <navLabel>
+        <text>Leaders of Product Management</text>
+      </navLabel>
+      <content src="index_split_020.html#filepos153685"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_61" playOrder="61">
+      <navLabel>
+        <text>Leaders of Product Design</text>
+      </navLabel>
+      <content src="index_split_020.html#filepos155618"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_62" playOrder="62">
+      <navLabel>
+        <text>Leaders of Technology Organization</text>
+      </navLabel>
+      <content src="index_split_020.html#filepos156704"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_63" playOrder="63">
+      <navLabel>
+        <text>Holistic View Leadership Roles</text>
+      </navLabel>
+      <content src="index_split_020.html#filepos158066"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_64" playOrder="64">
+      <navLabel>
+        <text>CHAPTER 17: The Head of Product Role</text>
+      </navLabel>
+      <content src="index_split_021.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_65" playOrder="65">
+      <navLabel>
+        <text>Competencies</text>
+      </navLabel>
+      <content src="index_split_021.html#filepos163139"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_66" playOrder="66">
+      <navLabel>
+        <text>CHAPTER 18: The Head of Technology Role</text>
+      </navLabel>
+      <content src="index_split_022.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_67" playOrder="67">
+      <navLabel>
+        <text>Organization</text>
+      </navLabel>
+      <content src="index_split_022.html#filepos180814"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_68" playOrder="68">
+      <navLabel>
+        <text>Leadership</text>
+      </navLabel>
+      <content src="index_split_022.html#filepos181357"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_69" playOrder="69">
+      <navLabel>
+        <text>Delivery</text>
+      </navLabel>
+      <content src="index_split_022.html#filepos181754"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_70" playOrder="70">
+      <navLabel>
+        <text>Architecture</text>
+      </navLabel>
+      <content src="index_split_022.html#filepos182495"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_71" playOrder="71">
+      <navLabel>
+        <text>Discovery</text>
+      </navLabel>
+      <content src="index_split_022.html#filepos183429"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_72" playOrder="72">
+      <navLabel>
+        <text>Evangelism</text>
+      </navLabel>
+      <content src="index_split_022.html#filepos184129"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_73" playOrder="73">
+      <navLabel>
+        <text>CHAPTER 19: The Delivery Manager Role</text>
+      </navLabel>
+      <content src="index_split_023.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_74" playOrder="74">
+      <navLabel>
+        <text>CHAPTER 20: Principles of Structuring Product Teams</text>
+      </navLabel>
+      <content src="index_split_024.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_75" playOrder="75">
+      <navLabel>
+        <text>CHAPTER 21: Profile: Lea Hickman of Adobe</text>
+      </navLabel>
+      <content src="index_split_025.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_76" playOrder="76">
+      <navLabel>
+        <text>PART III: The Right Product</text>
+      </navLabel>
+      <content src="index_split_026.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_77" playOrder="77">
+      <navLabel>
+        <text>Product Roadmaps</text>
+      </navLabel>
+      <content src="index_split_027.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_78" playOrder="78">
+      <navLabel>
+        <text>Overview</text>
+      </navLabel>
+      <content src="index_split_027.html#filepos220057"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_79" playOrder="79">
+      <navLabel>
+        <text>CHAPTER 22: The Problems with Product Roadmaps</text>
+      </navLabel>
+      <content src="index_split_028.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_80" playOrder="80">
+      <navLabel>
+        <text>CHAPTER 23: The Alternative to Roadmaps</text>
+      </navLabel>
+      <content src="index_split_029.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_81" playOrder="81">
+      <navLabel>
+        <text>Product Vision</text>
+      </navLabel>
+      <content src="index_split_030.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_82" playOrder="82">
+      <navLabel>
+        <text>Overview</text>
+      </navLabel>
+      <content src="index_split_030.html#filepos242438"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_83" playOrder="83">
+      <navLabel>
+        <text>CHAPTER 24: Product Vision and Product Strategy</text>
+      </navLabel>
+      <content src="index_split_031.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_84" playOrder="84">
+      <navLabel>
+        <text>The Product Vision</text>
+      </navLabel>
+      <content src="index_split_031.html#filepos242985"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_85" playOrder="85">
+      <navLabel>
+        <text>The Product Strategy</text>
+      </navLabel>
+      <content src="index_split_031.html#filepos245469"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_86" playOrder="86">
+      <navLabel>
+        <text>CHAPTER 25: Principles of Product Vision</text>
+      </navLabel>
+      <content src="index_split_032.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_87" playOrder="87">
+      <navLabel>
+        <text>CHAPTER 26: Principles of Product Strategy</text>
+      </navLabel>
+      <content src="index_split_033.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_88" playOrder="88">
+      <navLabel>
+        <text>CHAPTER 27: Product Principles</text>
+      </navLabel>
+      <content src="index_split_034.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_89" playOrder="89">
+      <navLabel>
+        <text>Product Objectives</text>
+      </navLabel>
+      <content src="index_split_035.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_90" playOrder="90">
+      <navLabel>
+        <text>Overview</text>
+      </navLabel>
+      <content src="index_split_035.html#filepos264379"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_91" playOrder="91">
+      <navLabel>
+        <text>CHAPTER 28: The OKR Technique</text>
+      </navLabel>
+      <content src="index_split_036.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_92" playOrder="92">
+      <navLabel>
+        <text>CHAPTER 29: Product Team Objectives</text>
+      </navLabel>
+      <content src="index_split_037.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_93" playOrder="93">
+      <navLabel>
+        <text>Product @ Scale</text>
+      </navLabel>
+      <content src="index_split_038.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_94" playOrder="94">
+      <navLabel>
+        <text>Overview</text>
+      </navLabel>
+      <content src="index_split_038.html#filepos280037"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_95" playOrder="95">
+      <navLabel>
+        <text>CHAPTER 30: Product Objectives @ Scale</text>
+      </navLabel>
+      <content src="index_split_039.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_96" playOrder="96">
+      <navLabel>
+        <text>CHAPTER 31: Product Evangelism</text>
+      </navLabel>
+      <content src="index_split_040.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_97" playOrder="97">
+      <navLabel>
+        <text>CHAPTER 32: Profile: Alex Pressland of the BBC</text>
+      </navLabel>
+      <content src="index_split_041.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_98" playOrder="98">
+      <navLabel>
+        <text>PART IV: The Right Process</text>
+      </navLabel>
+      <content src="index_split_042.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_99" playOrder="99">
+      <navLabel>
+        <text>Product Discovery</text>
+      </navLabel>
+      <content src="index_split_043.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_100" playOrder="100">
+      <navLabel>
+        <text>Overview</text>
+      </navLabel>
+      <content src="index_split_043.html#filepos299067"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_101" playOrder="101">
+      <navLabel>
+        <text>CHAPTER 33: Principles of Product Discovery</text>
+      </navLabel>
+      <content src="index_split_044.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_102" playOrder="102">
+      <navLabel>
+        <text>CHAPTER 34: Discovery Techniques Overview</text>
+      </navLabel>
+      <content src="index_split_045.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_103" playOrder="103">
+      <navLabel>
+        <text>Discovery Framing Techniques</text>
+      </navLabel>
+      <content src="index_split_045.html#filepos320529"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_104" playOrder="104">
+      <navLabel>
+        <text>Discovery Planning Techniques</text>
+      </navLabel>
+      <content src="index_split_045.html#filepos321130"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_105" playOrder="105">
+      <navLabel>
+        <text>Discovery Ideation Techniques</text>
+      </navLabel>
+      <content src="index_split_045.html#filepos321543"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_106" playOrder="106">
+      <navLabel>
+        <text>Discovery Prototyping Techniques</text>
+      </navLabel>
+      <content src="index_split_045.html#filepos322084"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_107" playOrder="107">
+      <navLabel>
+        <text>Discovery Testing Techniques</text>
+      </navLabel>
+      <content src="index_split_045.html#filepos322463"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_108" playOrder="108">
+      <navLabel>
+        <text>Testing Feasibility</text>
+      </navLabel>
+      <content src="index_split_045.html#filepos323789"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_109" playOrder="109">
+      <navLabel>
+        <text>Testing Usability</text>
+      </navLabel>
+      <content src="index_split_045.html#filepos324326"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_110" playOrder="110">
+      <navLabel>
+        <text>Testing Value</text>
+      </navLabel>
+      <content src="index_split_045.html#filepos324832"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_111" playOrder="111">
+      <navLabel>
+        <text>Testing Business Viability</text>
+      </navLabel>
+      <content src="index_split_045.html#filepos325540"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_112" playOrder="112">
+      <navLabel>
+        <text>Transformation Techniques</text>
+      </navLabel>
+      <content src="index_split_045.html#filepos326440"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_113" playOrder="113">
+      <navLabel>
+        <text>Discovery Framing Techniques</text>
+      </navLabel>
+      <content src="index_split_046.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_114" playOrder="114">
+      <navLabel>
+        <text>Overview</text>
+      </navLabel>
+      <content src="index_split_046.html#filepos328173"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_115" playOrder="115">
+      <navLabel>
+        <text>CHAPTER 35: Opportunity Assessment Technique</text>
+      </navLabel>
+      <content src="index_split_047.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_116" playOrder="116">
+      <navLabel>
+        <text>Business Objective</text>
+      </navLabel>
+      <content src="index_split_047.html#filepos338134"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_117" playOrder="117">
+      <navLabel>
+        <text>Key Results</text>
+      </navLabel>
+      <content src="index_split_047.html#filepos338702"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_118" playOrder="118">
+      <navLabel>
+        <text>Customer Problem</text>
+      </navLabel>
+      <content src="index_split_047.html#filepos339247"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_119" playOrder="119">
+      <navLabel>
+        <text>Target Market</text>
+      </navLabel>
+      <content src="index_split_047.html#filepos339977"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_120" playOrder="120">
+      <navLabel>
+        <text>CHAPTER 36: Customer Letter Technique</text>
+      </navLabel>
+      <content src="index_split_048.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_121" playOrder="121">
+      <navLabel>
+        <text>CHAPTER 37: Startup Canvas Technique</text>
+      </navLabel>
+      <content src="index_split_049.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_122" playOrder="122">
+      <navLabel>
+        <text>Discovery Planning Techniques</text>
+      </navLabel>
+      <content src="index_split_050.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_123" playOrder="123">
+      <navLabel>
+        <text>Overview</text>
+      </navLabel>
+      <content src="index_split_050.html#filepos357425"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_124" playOrder="124">
+      <navLabel>
+        <text>CHAPTER 38: Story Map Technique</text>
+      </navLabel>
+      <content src="index_split_051.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_125" playOrder="125">
+      <navLabel>
+        <text>CHAPTER 39: Customer Discovery Program Technique</text>
+      </navLabel>
+      <content src="index_split_052.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_126" playOrder="126">
+      <navLabel>
+        <text>The Power of Reference Customers</text>
+      </navLabel>
+      <content src="index_split_052.html#filepos364404"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_127" playOrder="127">
+      <navLabel>
+        <text>Single Target Market</text>
+      </navLabel>
+      <content src="index_split_052.html#filepos370215"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_128" playOrder="128">
+      <navLabel>
+        <text>Recruiting the Prospective Reference Customers</text>
+      </navLabel>
+      <content src="index_split_052.html#filepos372065"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_129" playOrder="129">
+      <navLabel>
+        <text>The Relationship</text>
+      </navLabel>
+      <content src="index_split_052.html#filepos373742"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_130" playOrder="130">
+      <navLabel>
+        <text>Platform/API Products</text>
+      </navLabel>
+      <content src="index_split_052.html#filepos380243"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_131" playOrder="131">
+      <navLabel>
+        <text>Customer‐Enabling Tools</text>
+      </navLabel>
+      <content src="index_split_052.html#filepos380889"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_132" playOrder="132">
+      <navLabel>
+        <text>Consumer Products</text>
+      </navLabel>
+      <content src="index_split_052.html#filepos381681"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_133" playOrder="133">
+      <navLabel>
+        <text>Summary</text>
+      </navLabel>
+      <content src="index_split_052.html#filepos383030"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_134" playOrder="134">
+      <navLabel>
+        <text>CHAPTER 40: Profile: Martina Lauchengco of Microsoft</text>
+      </navLabel>
+      <content src="index_split_053.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_135" playOrder="135">
+      <navLabel>
+        <text>Discovery Ideation Techniques</text>
+      </navLabel>
+      <content src="index_split_054.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_136" playOrder="136">
+      <navLabel>
+        <text>Overview</text>
+      </navLabel>
+      <content src="index_split_054.html#filepos393979"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_137" playOrder="137">
+      <navLabel>
+        <text>CHAPTER 41: Customer Interviews</text>
+      </navLabel>
+      <content src="index_split_055.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_138" playOrder="138">
+      <navLabel>
+        <text>CHAPTER 42: Concierge Test Technique</text>
+      </navLabel>
+      <content src="index_split_056.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_139" playOrder="139">
+      <navLabel>
+        <text>CHAPTER 43: The Power of Customer Misbehavior</text>
+      </navLabel>
+      <content src="index_split_057.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_140" playOrder="140">
+      <navLabel>
+        <text>CHAPTER 44: Hack Days</text>
+      </navLabel>
+      <content src="index_split_058.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_141" playOrder="141">
+      <navLabel>
+        <text>Discovery Prototyping Techniques</text>
+      </navLabel>
+      <content src="index_split_059.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_142" playOrder="142">
+      <navLabel>
+        <text>Overview</text>
+      </navLabel>
+      <content src="index_split_059.html#filepos413906"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_143" playOrder="143">
+      <navLabel>
+        <text>Feasibility Prototypes</text>
+      </navLabel>
+      <content src="index_split_059.html#filepos415854"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_144" playOrder="144">
+      <navLabel>
+        <text>User Prototypes</text>
+      </navLabel>
+      <content src="index_split_059.html#filepos416437"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_145" playOrder="145">
+      <navLabel>
+        <text>Live‐Data Prototypes</text>
+      </navLabel>
+      <content src="index_split_059.html#filepos417098"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_146" playOrder="146">
+      <navLabel>
+        <text>Hybrid Prototypes</text>
+      </navLabel>
+      <content src="index_split_059.html#filepos418319"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_147" playOrder="147">
+      <navLabel>
+        <text>CHAPTER 45: Principles of Prototypes</text>
+      </navLabel>
+      <content src="index_split_060.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_148" playOrder="148">
+      <navLabel>
+        <text>CHAPTER 46: Feasibility Prototype Technique</text>
+      </navLabel>
+      <content src="index_split_061.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_149" playOrder="149">
+      <navLabel>
+        <text>CHAPTER 47: User Prototype Technique</text>
+      </navLabel>
+      <content src="index_split_062.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_150" playOrder="150">
+      <navLabel>
+        <text>CHAPTER 48: Live‐Data Prototype Technique</text>
+      </navLabel>
+      <content src="index_split_063.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_151" playOrder="151">
+      <navLabel>
+        <text>CHAPTER 49: Hybrid Prototype Technique</text>
+      </navLabel>
+      <content src="index_split_064.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_152" playOrder="152">
+      <navLabel>
+        <text>Discovery Testing Techniques</text>
+      </navLabel>
+      <content src="index_split_065.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_153" playOrder="153">
+      <navLabel>
+        <text>Overview</text>
+      </navLabel>
+      <content src="index_split_065.html#filepos439911"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_154" playOrder="154">
+      <navLabel>
+        <text>CHAPTER 50: Testing Usability</text>
+      </navLabel>
+      <content src="index_split_066.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_155" playOrder="155">
+      <navLabel>
+        <text>Recruiting Users to Test</text>
+      </navLabel>
+      <content src="index_split_066.html#filepos445494"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_156" playOrder="156">
+      <navLabel>
+        <text>Preparing the Test</text>
+      </navLabel>
+      <content src="index_split_066.html#filepos447776"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_157" playOrder="157">
+      <navLabel>
+        <text>Testing Your Prototype</text>
+      </navLabel>
+      <content src="index_split_066.html#filepos451810"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_158" playOrder="158">
+      <navLabel>
+        <text>Summarizing the Learning</text>
+      </navLabel>
+      <content src="index_split_066.html#filepos457876"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_159" playOrder="159">
+      <navLabel>
+        <text>CHAPTER 51: Testing Value</text>
+      </navLabel>
+      <content src="index_split_067.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_160" playOrder="160">
+      <navLabel>
+        <text>Testing Demand</text>
+      </navLabel>
+      <content src="index_split_067.html#filepos461573"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_161" playOrder="161">
+      <navLabel>
+        <text>Testing Value Qualitatively</text>
+      </navLabel>
+      <content src="index_split_067.html#filepos462558"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_162" playOrder="162">
+      <navLabel>
+        <text>Testing Value Quantitatively</text>
+      </navLabel>
+      <content src="index_split_067.html#filepos463013"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_163" playOrder="163">
+      <navLabel>
+        <text>CHAPTER 52: Demand Testing Techniques</text>
+      </navLabel>
+      <content src="index_split_068.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_164" playOrder="164">
+      <navLabel>
+        <text>CHAPTER 53: Qualitative Value Testing Techniques</text>
+      </navLabel>
+      <content src="index_split_069.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_165" playOrder="165">
+      <navLabel>
+        <text>Interview First</text>
+      </navLabel>
+      <content src="index_split_069.html#filepos478518"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_166" playOrder="166">
+      <navLabel>
+        <text>Usability Test</text>
+      </navLabel>
+      <content src="index_split_069.html#filepos478963"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_167" playOrder="167">
+      <navLabel>
+        <text>Specific Value Tests</text>
+      </navLabel>
+      <content src="index_split_069.html#filepos481594"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_168" playOrder="168">
+      <navLabel>
+        <text>Iterating the Prototype</text>
+      </navLabel>
+      <content src="index_split_069.html#filepos484709"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_169" playOrder="169">
+      <navLabel>
+        <text>CHAPTER 54: Quantitative Value Testing Techniques</text>
+      </navLabel>
+      <content src="index_split_070.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_170" playOrder="170">
+      <navLabel>
+        <text>A/B Testing</text>
+      </navLabel>
+      <content src="index_split_070.html#filepos489307"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_171" playOrder="171">
+      <navLabel>
+        <text>Invite‐Only Testing</text>
+      </navLabel>
+      <content src="index_split_070.html#filepos490578"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_172" playOrder="172">
+      <navLabel>
+        <text>Customer Discovery Program</text>
+      </navLabel>
+      <content src="index_split_070.html#filepos492132"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_173" playOrder="173">
+      <navLabel>
+        <text>CHAPTER 55: Testing Feasibility</text>
+      </navLabel>
+      <content src="index_split_071.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_174" playOrder="174">
+      <navLabel>
+        <text>CHAPTER 56: Testing Business Viability</text>
+      </navLabel>
+      <content src="index_split_072.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_175" playOrder="175">
+      <navLabel>
+        <text>Marketing</text>
+      </navLabel>
+      <content src="index_split_072.html#filepos518354"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_176" playOrder="176">
+      <navLabel>
+        <text>Sales</text>
+      </navLabel>
+      <content src="index_split_072.html#filepos519544"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_177" playOrder="177">
+      <navLabel>
+        <text>Customer Success</text>
+      </navLabel>
+      <content src="index_split_072.html#filepos520761"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_178" playOrder="178">
+      <navLabel>
+        <text>Finance</text>
+      </navLabel>
+      <content src="index_split_072.html#filepos521715"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_179" playOrder="179">
+      <navLabel>
+        <text>Legal</text>
+      </navLabel>
+      <content src="index_split_072.html#filepos522468"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_180" playOrder="180">
+      <navLabel>
+        <text>Business Development</text>
+      </navLabel>
+      <content src="index_split_072.html#filepos523157"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_181" playOrder="181">
+      <navLabel>
+        <text>Security</text>
+      </navLabel>
+      <content src="index_split_072.html#filepos523779"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_182" playOrder="182">
+      <navLabel>
+        <text>CEO/COO/GM</text>
+      </navLabel>
+      <content src="index_split_072.html#filepos524499"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_183" playOrder="183">
+      <navLabel>
+        <text>CHAPTER 57: Profile: Kate Arnold of Netflix</text>
+      </navLabel>
+      <content src="index_split_073.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_184" playOrder="184">
+      <navLabel>
+        <text>Transformation Techniques</text>
+      </navLabel>
+      <content src="index_split_074.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_185" playOrder="185">
+      <navLabel>
+        <text>Overview</text>
+      </navLabel>
+      <content src="index_split_074.html#filepos534878"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_186" playOrder="186">
+      <navLabel>
+        <text>CHAPTER 58: Discovery Sprint Technique</text>
+      </navLabel>
+      <content src="index_split_075.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_187" playOrder="187">
+      <navLabel>
+        <text>CHAPTER 59: Pilot Team Technique</text>
+      </navLabel>
+      <content src="index_split_076.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_188" playOrder="188">
+      <navLabel>
+        <text>CHAPTER 60: Weaning an Organization Off Roadmaps</text>
+      </navLabel>
+      <content src="index_split_077.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_189" playOrder="189">
+      <navLabel>
+        <text>Process @ Scale</text>
+      </navLabel>
+      <content src="index_split_078.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_190" playOrder="190">
+      <navLabel>
+        <text>Overview</text>
+      </navLabel>
+      <content src="index_split_078.html#filepos552040"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_191" playOrder="191">
+      <navLabel>
+        <text>CHAPTER 61: Managing Stakeholders</text>
+      </navLabel>
+      <content src="index_split_079.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_192" playOrder="192">
+      <navLabel>
+        <text>Stakeholder Defined</text>
+      </navLabel>
+      <content src="index_split_079.html#filepos555094"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_193" playOrder="193">
+      <navLabel>
+        <text>Product Manager Responsibilities</text>
+      </navLabel>
+      <content src="index_split_079.html#filepos557399"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_194" playOrder="194">
+      <navLabel>
+        <text>Strategies for Success</text>
+      </navLabel>
+      <content src="index_split_079.html#filepos559075"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_195" playOrder="195">
+      <navLabel>
+        <text>CHAPTER 62: Communicating Product Learnings</text>
+      </navLabel>
+      <content src="index_split_080.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_196" playOrder="196">
+      <navLabel>
+        <text>CHAPTER 63: Profile: Camille Hearst of Apple</text>
+      </navLabel>
+      <content src="index_split_081.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_197" playOrder="197">
+      <navLabel>
+        <text>PART V: The Right Culture</text>
+      </navLabel>
+      <content src="index_split_082.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_198" playOrder="198">
+      <navLabel>
+        <text>CHAPTER 64: Good Product Team/Bad Product Team</text>
+      </navLabel>
+      <content src="index_split_083.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_199" playOrder="199">
+      <navLabel>
+        <text>CHAPTER 65: Top Reasons for Loss of Innovation</text>
+      </navLabel>
+      <content src="index_split_084.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_200" playOrder="200">
+      <navLabel>
+        <text>CHAPTER 66: Top Reasons for Loss of Velocity</text>
+      </navLabel>
+      <content src="index_split_085.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_201" playOrder="201">
+      <navLabel>
+        <text>CHAPTER 67: Establishing a Strong Product Culture</text>
+      </navLabel>
+      <content src="index_split_086.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_202" playOrder="202">
+      <navLabel>
+        <text>Acknowledgments</text>
+      </navLabel>
+      <content src="index_split_087.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_203" playOrder="203">
+      <navLabel>
+        <text>About the Author</text>
+      </navLabel>
+      <content src="index_split_088.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_204" playOrder="204">
+      <navLabel>
+        <text>Learning More</text>
+      </navLabel>
+      <content src="index_split_089.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_205" playOrder="205">
+      <navLabel>
+        <text>Index</text>
+      </navLabel>
+      <content src="index_split_090.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_206" playOrder="206">
+      <navLabel>
+        <text>End User License Agreement</text>
+      </navLabel>
+      <content src="index_split_091.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_207" playOrder="9">
+      <navLabel>
+        <text>FIGURE 6.1 Root Causes of Failed Product Efforts</text>
+      </navLabel>
+      <content src="index_split_007.html#filepos27571"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_208" playOrder="14">
+      <navLabel>
+        <text>FIGURE 8.1 Continuous Discovery and Delivery</text>
+      </navLabel>
+      <content src="index_split_009.html#filepos50580"/>
+    </navPoint>
+  </navMap>
+</ncx>
