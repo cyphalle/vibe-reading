@@ -5,7 +5,10 @@
       "Bash(git commit:*)",
       "Bash(gh repo create:*)",
       "Bash(git push:*)",
-      "Bash(unzip:*)"
+      "Bash(unzip:*)",
+      "Bash(cat:*)",
+      "Bash(five-dysfunctions.md)",
+      "Bash(tree:*)"
     ],
     "deny": [],
     "ask": []
